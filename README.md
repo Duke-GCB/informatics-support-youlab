@@ -15,6 +15,7 @@ Meeting notes are in [Google doc](https://docs.google.com/document/d/1l3umC6dMKb
 - Some past attempts to use cluster yielded differing results, group may not have confidence
 - Unknown if version control is used
 - Questions about how to access cluster or other resources
+- Researchers present are not acquring/analzying human subject data
 
 ## Informatics support opportunities
 
