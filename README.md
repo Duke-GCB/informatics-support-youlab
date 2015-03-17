@@ -2,7 +2,7 @@
 
 ## Meetings
 
-Meeting notes are in [Google doc](https://docs.google.com/document/d/1l3umC6dMKbQ9yhKVcssjCYWQbgJ_q2cmqecpPlvqIEA/edit#heading=h.f12sxqxyhil7)
+Meeting notes are in [Google doc](https://docs.google.com/document/d/1l3umC6dMKbQ9yhKVcssjCYWQbgJ_q2cmqecpPlvqIEA/edit#heading=h.f12sxqxyhil7) (private)
 
 ## Summary of initial meeting 
 
