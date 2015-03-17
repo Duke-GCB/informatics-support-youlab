@@ -12,7 +12,7 @@ Meeting notes are in [Google doc](https://docs.google.com/document/d/1l3umC6dMKb
 - Data backup/archival does not seem robust, stored on consumer-grade hard drives
 - Cost of storage resources is a concern
 - Analysis code is primarily written in matlab
-- Some past attempts to use cluster yielded differing results, group may not have confidence
+- Some past attempts to use cluster yielded differing results
 - Unknown if version control is used
 - Questions about how to access cluster or other resources
 - Researchers present are not acquring/analzying human subject data
@@ -31,7 +31,7 @@ Meeting notes are in [Google doc](https://docs.google.com/document/d/1l3umC6dMKb
 - hosts to use? hardac? dscr? new vms? containers?
 - coding practices, versioning, where code lives?
 - storage to use? existing nfs storage? how to stage data?
-- Candidate for us to transfer analysis (I suggest Allison)
+- Candidate for us to transfer analysis
 
 ## Next steps
 
